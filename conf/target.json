@@ -1,0 +1,7 @@
+{
+    "probeCategory": "Cloud Native",
+    "targetType": "MockProbe",
+    "targetName": "my.probe",
+    "username": "mocker",
+    "password": "mocker"
+}

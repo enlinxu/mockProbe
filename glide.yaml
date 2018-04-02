@@ -1,0 +1,4 @@
+package: github.com/songbinliu/mockProbe
+import:
+- package: github.com/turbonomic/turbo-go-sdk
+  version: 36a45086d337dd115b0bfd737060c395a6fb3411

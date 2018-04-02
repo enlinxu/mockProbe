@@ -4,4 +4,4 @@ glide update --strip-vendor
 
 make build
 
-./_output/mockProbe -v=3 --alsologtostderr
+./_output/mockProbe -v=3

@@ -27,4 +27,4 @@ The [default supply chain](https://github.com/songbinliu/mockProbe/blob/1f3976c2
 The [default discovery](https://github.com/songbinliu/mockProbe/blob/1f3976c29bd0342b4dff239c275df92573bb6f1c/pkg/discovery/discovery_client.go#L74) returns an empty list. 
 
 ### 3. implement the action Handler
-The [default action handler] does nothing but log the action information.
+The [default action executor](https://github.com/songbinliu/mockProbe/blob/1efbe9dc8f5562b2a2f23cd628751e984af198fb/pkg/action/executor.go#L20) does nothing but log the action information.
